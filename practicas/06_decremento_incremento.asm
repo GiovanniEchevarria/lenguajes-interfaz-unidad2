@@ -1,8 +1,8 @@
-; Materia: Lenguajes de Interfaz
+Materia: Lenguajes de Interfaz
 
-; Alumno: (escribe aqui tu nombre)
+; Alumno:Giovanni De Jesus Echevarria Yañez
 
-; Horario: (escribe aqui tu horario)
+; Horario: 10:00am/11:00am
 
 ; Docente: Dr. José Luis Medina Jiménez
 
